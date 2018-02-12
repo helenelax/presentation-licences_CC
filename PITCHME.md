@@ -1,4 +1,4 @@
-# La propriété intellectuelle, les licences libres et les licences Creatives Commons
+### La propriété intellectuelle, les licences libres et les licences Creatives Commons
 
 ![logo_CC](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1639&y=579&a=true&file=CC_pt.png&t=GpuVUr8PpDvQI9n&scalingup=0)
 
