@@ -98,7 +98,7 @@ décembre 2017
 ### Les 6 licences Creatives commons
 * Quand on souhaite pouvoir diffuser largement des oeuvres
 * Licences prêtes à l'emploi
-* Adaptée pour toutes outes productions de l'esprit régies par le droit d'auteur.
+* Adaptées pour toutes les productions de l'esprit régies par le droit d'auteur.
 * En pratique: texte, vidéo, image, son,...
 
 ---
@@ -145,7 +145,7 @@ SA = Share Alike
 
 ![Les_differentes_licences](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1639&y=579&a=true&file=Les_differentes_licences.png&t=8zUuxYY2yZVlXxj&scalingup=0)
 
-<span style="font-size=10">Crédit *Sharing Creative Work : An Illustrated Primer* by Alex Roberts, Rebecca Rojer, & Jon Phillips - public domain</span>
+<span style="font-size: 15px;">Crédit *Sharing Creative Work : An Illustrated Primer* by Alex Roberts, Rebecca Rojer, & Jon Phillips - public domain</span>
 
 
 ---
