@@ -1,6 +1,6 @@
 ### La propriété intellectuelle, les licences libres et les licences Creatives Commons
 
-![logo_CC](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/CC_pt.png)
+![logo_CC](http://www.lamerguez.com/presentations_GitPich/presentation-licences_CC/CC_pt.png)
 
 ---
 Hélène Laxenaire  
@@ -115,14 +115,14 @@ décembre 2017
 ### Attribution - BY
 BY = Par
 
-![CC_BY](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/CC_BY_pt.png)
+![CC_BY](http://www.lamerguez.com/presentations_GitPich/presentation-licences_CC/CC_BY_pt.png)
 
 ---
 
 ### Pas de modification - ND
 ND = Non derivative
 
-![CC_ND](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/CC_ND_pt.png)
+![CC_ND](http://www.lamerguez.com/presentations_GitPich/presentation-licences_CC/CC_ND_pt.png)
 
 ---
 
@@ -130,20 +130,20 @@ ND = Non derivative
 NC = Non commercial  
 Ne distingue pas *commercial* de *lucratif*
 
-![CC_NC](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/CC_NC_pt.png)
+![CC_NC](http://www.lamerguez.com/presentations_GitPich/presentation-licences_CC/CC_NC_pt.png)
 
 ---
 
 ### Partage dans les mêmes conditions - SA
 SA = Share Alike
 
-![CC_SA](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/CC_SA_pt.png)
+![CC_SA](http://www.lamerguez.com/presentations_GitPich/presentation-licences_CC/CC_SA_pt.png)
 
 ---
 
 ### Les 6 licences possibles
 
-![Les_differentes_licences](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/Les_differentes_licences.png)
+![Les_differentes_licences](http://www.lamerguez.com/presentations_GitPich/presentation-licences_CC/Les_differentes_licences.png)
 
 <span style="font-size: 15px;">Crédit *Sharing Creative Work : An Illustrated Primer* by Alex Roberts, Rebecca Rojer, & Jon Phillips - public domain</span>
 
