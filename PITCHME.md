@@ -1,6 +1,6 @@
 ### La propriété intellectuelle, les licences libres et les licences Creatives Commons
 
-![logo_CC](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1639&y=579&a=true&file=CC_pt.png&t=GpuVUr8PpDvQI9n&scalingup=0)
+![logo_CC](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/CC_pt.png)
 
 ---
 Hélène Laxenaire  
@@ -115,14 +115,14 @@ décembre 2017
 ### Attribution - BY
 BY = Par
 
-![CC_BY](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1639&y=579&a=true&file=CC_BY_pt.png&t=sZczKpIOmDkmT4B&scalingup=0)
+![CC_BY](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/CC_BY_pt.png)
 
 ---
 
 ### Pas de modification - ND
 ND = Non derivative
 
-![CC_ND](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1639&y=579&a=true&file=CC_ND_pt.png&t=bn6Jv0l4tdYNv6y&scalingup=0)
+![CC_ND](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/CC_ND_pt.png)
 
 ---
 
@@ -130,20 +130,20 @@ ND = Non derivative
 NC = Non commercial  
 Ne distingue pas *commercial* de *lucratif*
 
-![CC_NC](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1639&y=579&a=true&file=CC_NC_pt.png&t=EErrMNssBeDUOwW&scalingup=0)
+![CC_NC](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/CC_NC_pt.png)
 
 ---
 
 ### Partage dans les mêmes conditions - SA
 SA = Share Alike
 
-![CC_SA](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1639&y=579&a=true&file=CC_SA_pt.png&t=fBR80YueH7wLAn9&scalingup=0)
+![CC_SA](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/CC_SA_pt.png)
 
 ---
 
 ### Les 6 licences possibles
 
-![Les_differentes_licences](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1639&y=579&a=true&file=Les_differentes_licences.png&t=8zUuxYY2yZVlXxj&scalingup=0)
+![Les_differentes_licences](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/Les_differentes_licences.png)
 
 <span style="font-size: 15px;">Crédit *Sharing Creative Work : An Illustrated Primer* by Alex Roberts, Rebecca Rojer, & Jon Phillips - public domain</span>
 
