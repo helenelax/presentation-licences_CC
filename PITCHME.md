@@ -25,8 +25,8 @@ décembre 2017
 
 |             | Rival       | Non-rival    |
 | ----------- |-------------| ------------ |
-|Exclusif     | Bien privé  | Bien de club |
-|Non-exclusif | Bien commun | Bien public  |
+|Exclusif     | Bien privé *(nourriture)*  | Biens collectifs ou biens de club *(réseaux sans fil)*  |
+|Non-exclusif | Biens communs *(ressources naturelles)*| Biens publics *(air)*  |
 
 
 ---
